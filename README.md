@@ -46,7 +46,7 @@ Passo a passo
 
 Clone o repositório:
 
-git clone https://github.com/SEU-USUARIO/catalogo-dinamico-flutter.git
+git clone https://github.com/Lucascatto-z/catalogo-dinamico-flutter.git
 
 
 Acesse a pasta do projeto:
